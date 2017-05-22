@@ -1,0 +1,3 @@
+<?php
+echho "Test functions";
+?>
