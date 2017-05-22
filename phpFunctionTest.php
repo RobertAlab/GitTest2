@@ -7,4 +7,5 @@ class GitTest
 	}
 }
 GitTest.displayText("GeT_ReKT", "Rifler/AWPer");
+echo "Cyka";
 ?>
