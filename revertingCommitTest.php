@@ -1,3 +1,3 @@
 <?php
-echho "Test functions";
+echo "Test functions";
 ?>
