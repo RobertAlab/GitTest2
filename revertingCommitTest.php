@@ -1,3 +1,3 @@
 <?php
-echho "Test functions";
+echho "Test functions and stuffs";
 ?>
